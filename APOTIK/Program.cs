@@ -95,7 +95,7 @@ namespace APOTIK
                                             default:
                                                 {
                                                     Console.Clear();
-                                                    Console.WriteLine("\nInvalid option");
+                                                    Console.WriteLine("\nInvalid option"); 
                                                 }
                                                 break;
 
